@@ -1,0 +1,36 @@
+th {
+    padding: 40px;
+    font-size: 18px;
+    color: #f53686;
+}
+
+tr {
+    color: white;
+    padding: 40px;
+}
+
+td {
+    padding-top: 20px;
+    border-style: ridge;
+    border-width: 1px;
+}
+
+table {
+    margin: auto;
+    width: 50% !important;
+}
+
+h1{
+    color: #2bf7ca;
+}
+
+h6{
+    color: white;
+    font-style: italic;
+
+}
+
+.total {
+    font-weight: bold;
+    font-style: italic;
+}

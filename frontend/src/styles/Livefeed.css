@@ -1,0 +1,54 @@
+h1 {
+    color: #2bf7ca;
+}
+
+img {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+hr{
+    border-top: 2px solid white;
+}
+
+.postGap{
+    border-top: 0.5px dotted white;
+}
+
+.chkbox {
+    font-size: 14px;
+    font-style: italic;
+    margin-left: 5px;
+    margin-right: 20px;
+    color: white;
+}
+
+.marker {
+    margin-right: 30px;
+    color: #2bf7ca;
+}
+
+.resultCount {
+    color: #f53686
+}
+
+.post {
+    color: whitesmoke;
+}
+
+.nameField{
+    color: #f53686;
+    font-size: 15px;
+    font-style: italic;
+}
+.field {
+    color: #2bf7ca;
+    font-size: 13px;
+}
+
+.bigField {
+    color: whitesmoke;
+    font-size: 30px;
+    font-style: italic;
+}

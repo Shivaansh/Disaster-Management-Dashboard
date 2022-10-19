@@ -1,0 +1,44 @@
+background {
+    color: #221F1F;
+}
+
+h1{
+    color: #2bf7ca;
+}
+
+h2{
+    color: #f53686;
+}
+
+h3{
+    color: #f4f4f4;
+}
+
+p{
+    color: whitesmoke;
+    font-size: 20px;
+}
+
+li{
+    width: 450px;
+    justify-content: center;
+    /* TODO: Center using bootstrap*/
+}
+
+.descList{
+    text-align: center;
+    list-style: inside;
+}
+
+.inLine{
+    color: #f53686;
+    font-weight: bold;
+}
+
+.text1{
+    color: #ffffff;
+}
+
+.text2{
+    color: #f1f1f1;
+}
